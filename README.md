@@ -1,16 +1,20 @@
-## Hi there 👋
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/368642739497074699?hideDiscrim=true)](https://discord.com/users/368642739497074699)
 
-<!--
-**RexsaChavo/RexsaChavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Ben Kimim</h2>
 
-Here are some ideas to get you started:
+```js
+class Baro {
+    constructor(options) {
+        this.name = "Baro",
+        this.sex = "Man",
+        this.length = "193",
+        this.type = "human",
+        this.job = "ramalın kafasına göre",
+        this.weight = "72",
+        this.age = "18",
+        this.discord.tag = "rexsachavo"
+    };
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+module.exports = Rexsa
+```
