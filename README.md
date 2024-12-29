@@ -1,5 +1,3 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/368642739497074699?hideDiscrim=true)](https://discord.com/users/368642739497074699)
-
 <h2>Ben Kimim</h2>
 
 ```js
